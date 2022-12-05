@@ -8,12 +8,10 @@
 	* choco.exe uninstall [pkg.nupkg]
 
 
-<!-- EDIT ME-->
-
 [![](https://ci.appveyor.com/api/projects/status/github/LukaszEV/chocolatey-packages?svg=true)](https://ci.appveyor.com/project/LukaszEV/chocolatey-packages)
 [Update status](https://gist.github.com/LukaszEV/84bbc5c2f9bedd14b1d9a03d593040a9)
-
-<!-- REMOVE THE squiggles "~" surrounding this (this should not be a code block) -->
+[![](http://transparent-favicon.info/favicon.ico)](#)
+[chocolatey/LukaszEV](https://chocolatey.org/profiles/LukaszEV)
 
 
 ## Chocolatey Packages Template
