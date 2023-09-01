@@ -2,21 +2,21 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>metricbeat</id>
-    <version>7.15.1</version> 
-    <packageSourceUrl>https://github.com/palethorper/chocolatey-packages/tree/master/automatic/metricbeat</packageSourceUrl>
-    <owners>palethorper</owners>
+    <version>8.5.2</version> 
+    <packageSourceUrl>https://github.com/LukaszEV/chocolatey-packages/tree/master/automatic/metricbeat</packageSourceUrl>
+    <owners>Ecovadis</owners>
     <title>metricbeat</title>
-    <authors>Robert Palethorpe</authors>
+    <authors>Ecovadis</authors>
     <projectUrl>https://www.elastic.co/downloads/beats/metricbeat</projectUrl>
-    <iconUrl>https://cdn.rawgit.com/palethorper/chocolatey-packages/53430a5c/automatic/metricbeat/icons/metricbeat.png</iconUrl>
+    <iconUrl>https://github.com/LukaszEV/chocolatey-packages/blob/master/automatic/metricbeat/icons/metricbeat.png</iconUrl>
     <copyright></copyright>
     <!-- If there is a license Url available, it is is required for the community feed -->
-    <licenseUrl>https://cdn.rawgit.com/palethorper/chocolatey-packages/53430a5c/automatic/metricbeat/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/LukaszEV/chocolatey-packages/blob/master/automatic/metricbeat/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/elastic/beats/tree/7.15/metricbeat</projectSourceUrl>
-    <docsUrl>https://www.elastic.co/guide/en/beats/metricbeat/7.15/index.html</docsUrl>
+    <projectSourceUrl>https://github.com/elastic/beats/tree/8.5/metricbeat</projectSourceUrl>
+    <docsUrl>https://www.elastic.co/guide/en/beats/metricbeat/8.5/index.html</docsUrl>
     <tags>metricbeat beat elastic admin</tags>
-    <summary>Metricbeat helps you monitor your servers and the services they host by collecting metrics from the operating system and services.</summary>
+    <summary>metricbeat is a lightweight, open source shipper for metric data.</summary>
     <description><![CDATA[Contains the chocolatey package for metricbeat
 ]]></description>
     <releaseNotes></releaseNotes>
